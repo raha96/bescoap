@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# generated output
+*.png
+*.dot
